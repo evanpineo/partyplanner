@@ -1,0 +1,2 @@
+class Datepicker < ApplicationRecord
+end

@@ -1,0 +1,19 @@
+@import "bootstrap";
+
+.name {
+  margin-left: 10px;
+}
+
+.input-group.date .input-group-addon {
+    cursor: pointer;
+}
+
+.dropdown-menu,
+table.table-condensed {
+  width: 80%;
+  margin: auto;
+}
+
+div.datepicker-days > table > tbody > tr {
+  line-height: 50px;
+}
